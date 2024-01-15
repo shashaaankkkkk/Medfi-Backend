@@ -16,8 +16,8 @@ Make sure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/medfi-emergency-backend.git
-    cd medfi
+    https://github.com/shashaaankkkkk/Medfi-Backend.git
+    cd Medfi-Backend
     ```
 
 2. Set up the virtual environment:
